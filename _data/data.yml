@@ -16,12 +16,12 @@ sidebar:
     email: gretmail@gmail.com
     timezone: America/LosAngeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://gretchenortiz/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    website: https://gretchenortiz.com # Include the full website URL, including "http://" or "https://".
+    linkedin: gretchenortiz
     github: kapezit
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,15 +40,15 @@ sidebar:
           level: Native
 
     interests:
-      title: Interests
+      title:
       info:
-        - item: Climbing
+        - item:
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
