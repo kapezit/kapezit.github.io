@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -78,8 +78,8 @@ experiences:
     title: Experiences
     info:
       - role: User Research Analyst
-        time: 2025 - Present
-        company: 2K Games
+        time: 2022 - Present
+        company: 2K Games, Novato (formely Gearbox before adquisition by Take Two)
         details: |
           A work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in the User research toolkit. Reponsibilities include:
             - Working closely with the inter-disciplinary teams to establish telemetry requirements for game research projects and quantitative analysis.
@@ -87,17 +87,16 @@ experiences:
             - Analyzing gameplay telemetry and preparing reports with valuable and actionable insights.
             - Defining new metrics and processes that push the analysis of gameplay forward
             
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: User Research Analyst
+        time: 2022 - 2024
+        company: Gearbox, Frisco
+          Worked in collaboration with project developers and User Research Investigators by analyzing telemetry data collected on titles from across the Gearbox portfolio. 
+          Advocaded for gameplay data collection and analysis best practices as well as helping to improve the Analysis Team’s capabilities. 
+        tools: SQL for reviewing and quick analysis of telemetry (QA) Creation of visualizations, dashboards, and stories with Tableau.
+            - SQL
+            - Snowflake
+            - Tableau
+            - Excel / Google Sheets
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
