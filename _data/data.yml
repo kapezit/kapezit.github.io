@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Gretchen Ortiz
-    tagline: User Research Analyist (2K Games)
+    tagline: User Research Analyst (2K Games)
     avatar: displayimage2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -67,43 +67,26 @@ education:
         university: Georgia Institute of Technology
         time:
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
       - degree: BA in Psychology
         university: University of Puerto Rico
         time:
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: User Research Analyst
+        time: 2025 - Present
+        company: 2K Games
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          A work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in the User research toolkit. Reponsibilities include:
+            - Working closely with the inter-disciplinary teams to establish telemetry requirements for game research projects and quantitative analysis.
+            - Taking a proactive approach to problem-solving and exceling in communication between Data Analysts/Engineers, QA, Devs, and User Research.
+            - Analyzing gameplay telemetry and preparing reports with valuable and actionable insights.
+            - Defining new metrics and processes that push the analysis of gameplay forward
+            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
