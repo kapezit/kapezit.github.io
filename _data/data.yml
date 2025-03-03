@@ -81,7 +81,7 @@ experiences:
         time: 2022 - Present
         company: 2K Games, Novato (formely Gearbox before adquisition by Take Two)
         details: |
-          A work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in the User research toolkit. Reponsibilities include:
+          A work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in games user research. Reponsibilities include:
             - Working closely with the inter-disciplinary teams to establish telemetry requirements for game research projects and quantitative analysis.
             - Taking a proactive approach to problem-solving and exceling in communication between Data Analysts/Engineers, QA, Devs, and User Research.
             - Analyzing gameplay telemetry and preparing reports with valuable and actionable insights.
@@ -90,24 +90,21 @@ experiences:
       - role: User Research Analyst
         time: 2022 - 2024
         company: Gearbox, Frisco
+        details: |
           Worked in collaboration with project developers and User Research Investigators by analyzing telemetry data collected on titles from across the Gearbox portfolio. 
-          Advocaded for gameplay data collection and analysis best practices as well as helping to improve the Analysis Team’s capabilities. 
-        tools: SQL for reviewing and quick analysis of telemetry (QA) Creation of visualizations, dashboards, and stories with Tableau.
+          Advocaded for gameplay data collection and analysis best practices as well as helping to improve the Analysis Team’s capabilities. Tools:
             - SQL
-            - Snowflake
+            - Data sources: Snowflake, Databricks
             - Tableau
             - Excel / Google Sheets
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Freelance Data Analyts for various Esport orgs
+        time: 2020 - 2022
+        company: Finezt Gaming and Rocket Street
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Data analysis of player statistics for tournament decision-making, community share-outs and bracket management.
+          Product: Finezt sponsored tournaments and Rocket Street (Psyonix) sponsored tournaments.
+            - Web-scraping using Python
+            - Analysis in Excel, Google Sheets, and Tableau
 
 certifications:
       title: Certifications
