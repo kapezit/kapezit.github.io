@@ -42,13 +42,13 @@ sidebar:
     interests:
       title:
       info:
-        - item:
-          link:
+        - item: Rocket League
+          link: 
 
-        - item: 
-          link:
+        - item: Angel City FC
+          link: 
 
-        - item: 
+        - item: Puerto Rico
           link:
 
 career-profile:
@@ -56,7 +56,7 @@ career-profile:
     summary: |
       My primary responsibility as a User Research Analyst is to provide 
       actionable insights derived from gameplay telemetry. Achieving this 
-      objective necessitates leading and supporting efforts in telemetry design, 
+      objective necessitates my expertise in leading and supporting efforts in telemetry design, 
       data quality assurance (QA), and acting as a liaison between the User 
       Research and Data Analysts teams. I take pride in contributing to the 
       improvement and expansion of the user research team's toolkit.
@@ -78,14 +78,14 @@ experiences:
     title: Experiences
     info:
       - role: User Research Analyst
-        time: 2022 - Present
-        company: 2K Games, Novato (formely Gearbox before adquisition by Take Two)
+        time: 2025 - Present
+        company: 2K Games, Novato (role transition from Geerbox to 2K)
         details: |
-          Work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in games user research. Reponsibilities include:
+          Work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in games user research with a focus on the Gearbox portfolio. Reponsibilities include:
             - Working closely with the inter-disciplinary teams to establish telemetry requirements for game research projects and quantitative analysis.
             - Taking a proactive approach to problem-solving and exceling in communication between Data Analysts/Engineers, QA, Devs, and User Research.
             - Analyzing gameplay telemetry and preparing reports with valuable and actionable insights.
-            - Defining new metrics and processes that push the analysis of gameplay forward
+            - Defining new metrics and processes that push the analysis of gameplay forward.
             
       - role: User Research Analyst
         time: 2022 - 2024
@@ -97,6 +97,7 @@ experiences:
             - Data sources: Snowflake, Databricks
             - Tableau
             - Excel / Google Sheets
+            
       - role: Freelance Data Analyts for various Esport orgs
         time: 2020 - 2022
         company: Finezt Gaming and Rocket Street
@@ -105,6 +106,29 @@ experiences:
           Product: Finezt sponsored tournaments and Rocket Street (Psyonix) sponsored tournaments.
             - Web-scraping using Python
             - Analysis in Excel, Google Sheets, and Tableau
+
+       - role: User Researcher
+        time: 2017-2019
+        company: Meta (Facebook)
+        details: |
+          The main responsibility was to represent the voice of the advertiser to internal teams by conducting research for the Ads Manager and Reporting team.
+          This involved planning, recruitment, conducting research, analysis, and reporting. Frequently used methods: remote interviews, surveys, usability tests, and card sorting.
+
+        - role: User Research Assistant - Contract
+        time: 2016-2016
+        company: Anki
+        details: |
+          Mainly involved with the setup of the tests, recordings, and analysis of videos as well as intake and outtake of participants. Product: Cozmo (interactive robot)
+
+        - role: Jr. User Research Assistant - Contract
+        time: 2015-2015
+        company: Activision
+        details: |
+          Assisted with the execution of game progression testing and playtesting under the direction of a supervisor. Responsibilities included recruitment, lab setup, 
+          intake/outtake of participants, recording/reporting of playtests. Product: Guitar Hero Live, Skylanders: Superchargers, and Call of Duty: Black Ops III.
+
+          
+
 
 certifications:
       title: Certifications
