@@ -107,25 +107,25 @@ experiences:
             - Web-scraping using Python
             - Analysis in Excel, Google Sheets, and Tableau
 
-       - role: User Researcher
-         time: 2017-2019
-         company: Meta (Facebook)
-         details: |
+      - role: User Researcher
+        time: 2017-2019
+        company: Meta (Facebook)
+        details: |
           The main responsibility was to represent the voice of the advertiser to internal teams by conducting research for the Ads Manager and Reporting team.
           This involved planning, recruitment, conducting research, analysis, and reporting. Frequently used methods: remote interviews, surveys, usability tests, and card sorting.
 
-        - role: User Research Assistant - Contract
-          time: 2016-2016
-          company: Anki
-          details: |
+      - role: User Research Assistant - Contract
+        time: 2016-2016
+        company: Anki
+        details: |
             Mainly involved with the setup of the tests, recordings, and analysis of videos as well as intake and outtake of participants. Product: Cozmo (interactive robot)
 
-        - role: Jr. User Research Assistant - Contract
-          time: 2015-2015
-          company: Activision
-          details: |
-           Assisted with the execution of game progression testing and playtesting under the direction of a supervisor. Responsibilities included recruitment, lab setup, 
-           intake/outtake of participants, recording/reporting of playtests. Product: Guitar Hero Live, Skylanders: Superchargers, and Call of Duty: Black Ops III.
+      - role: Jr. User Research Assistant - Contract
+        time: 2015-2015
+        company: Activision
+        details: |
+          Assisted with the execution of game progression testing and playtesting under the direction of a supervisor. Responsibilities included recruitment, lab setup, 
+          intake/outtake of participants, recording/reporting of playtests. Product: Guitar Hero Live, Skylanders: Superchargers, and Call of Duty: Black Ops III.
 
 
 certifications:
