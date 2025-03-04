@@ -40,7 +40,7 @@ sidebar:
           level: Native
 
     interests:
-      title:
+      title: Interests
       info:
         - item: Rocket League
           link: 
@@ -79,7 +79,7 @@ experiences:
     info:
       - role: User Research Analyst
         time: 2025 - Present
-        company: 2K Games, Novato (role transition from Geerbox to 2K)
+        company: 2K Games, Novato (role transition from Gearbox to 2K)
         details: |
           Work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in games user research with a focus on the Gearbox portfolio. Reponsibilities include:
             - Working closely with the inter-disciplinary teams to establish telemetry requirements for game research projects and quantitative analysis.
@@ -92,13 +92,13 @@ experiences:
         company: Gearbox, Frisco
         details: |
           Worked in collaboration with project developers and User Research Investigators by analyzing telemetry data collected on titles from across the Gearbox portfolio. 
-          Advocaded for gameplay data collection and analysis best practices as well as helping to improve the Analysis Team’s capabilities. Tools:
+          Advocated for gameplay data collection and analysis best practices as well as helping to improve the Analysis Team’s capabilities. Tools:
             - SQL
             - Data sources: Snowflake, Databricks
             - Tableau
             - Excel / Google Sheets
             
-      - role: Freelance Data Analyts for various Esport orgs
+      - role: Freelance Data Analyst for various eSports orgs
         time: 2020 - 2022
         company: Finezt Gaming and Rocket Street
         details: |
