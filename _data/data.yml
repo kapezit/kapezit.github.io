@@ -57,7 +57,7 @@ career-profile:
       My primary responsibility as a User Research Analyst is to provide 
       actionable insights derived from gameplay telemetry. Achieving this 
       objective necessitates my expertise in leading and supporting efforts in telemetry design, 
-      data quality assurance (QA), and acting as a liaison between the User 
+      data quality assurance, and acting as a liaison between the User 
       Research and Data Analysts teams. I take pride in contributing to the 
       improvement and expansion of the user research team's toolkit.
 education:
@@ -137,7 +137,7 @@ certifications:
           organization: AbleGamers Charity
           credentialid: 
           credentialurl: https://www.credential.net/fd77786a-43fb-403c-aa4e-01b5b46a6394#acc.vOonHNbg
-          credentialname: Link to APX Certificate
+          credentialname: Link to Certificate
           details: |
             Successfully completed the AbleGamers Certified Accessible Player Experience (APX) training course.            
         - name: Google Data Analytics Professional Certificate
@@ -146,7 +146,7 @@ certifications:
           organization: Google Career Certificates
           credentialid:
           credentialurl: https://www.credly.com/badges/c035fed2-668a-4193-bbef-b0e80c28c9cd
-          credentialname: Link to Google Data Analytics Certificate
+          credentialname: Link to Certificate
           details: |
             Successfully completed the 8-course Google Data Analytics Professional Certificate program, covering the data analysis cycle, spreadsheets, SQL, Tableau, and R.
 
