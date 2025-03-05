@@ -132,7 +132,7 @@ certifications:
       title: Certifications
       list:
         - name: Certified Accessible Player Experience Practitioner
-          start: 
+          start: 12
           end: 2022
           organization: AbleGamers Charity
           credentialid: 
@@ -141,7 +141,7 @@ certifications:
           details: |
             Successfully completed the AbleGamers Certified Accessible Player Experience (APX) training course.            
         - name: Google Data Analytics Professional Certificate
-          start: 
+          start: 1
           end: 2022
           organization: Google Career Certificates
           credentialid:
