@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Gretchen Ortiz
-    tagline: User Research Analyst (2K Games)
+    tagline: Senior Gameplay Telemetry Researcher (2K Games)
     avatar: displayimage2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My primary responsibility as a User Research Analyst is to provide 
+      My primary responsibility as a Gameplay Telemetry Researcher is to provide 
       actionable insights derived from gameplay telemetry. Achieving this 
       objective necessitates my expertise in leading and supporting efforts in telemetry design, 
       data quality assurance, and acting as a liaison between the User 
