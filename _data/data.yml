@@ -64,15 +64,19 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: User Research Analyst
+
+      - role: Senior Gameplay Telemetry Researcher
         time: 2025 - Present
-        company: 2K Games, Novato (role transition from Gearbox to 2K)
+        company: 2K Games, Novato
         details: |
-          Work as a bridge between the Data Insights and User Research teams at 2k to move forward inclusion of telemetry in games user research with a focus on the Gearbox portfolio. Reponsibilities include:
-            - Working closely with the inter-disciplinary teams to establish telemetry requirements for game research projects and quantitative analysis.
-            - Taking a proactive approach to problem-solving and exceling in communication between Data Analysts/Engineers, QA, Devs, and User Research.
-            - Analyzing gameplay telemetry and preparing reports with valuable and actionable insights.
-            - Defining new metrics and processes that push the analysis of gameplay forward.
+          Serving as a pivotal bridge between the Data Insights and User Research teams at 2K. My role enables the integration of telemetry in game user research with a focus on the Gearbox portfolio. 
+          The primary responsibility is to deliver actionable insights derived from gameplay telemetry. This requires leveraging my expertise in user research, along with supporting efforts in telemetry design and data quality.
+    
+      - role: User Research Analyst
+        time: 2025 - 2025
+        company: 2K Games, Novato (5 months of role transition from Gearbox to 2K)
+        details: |
+          Following Gearbox's acquisition by Take-Two Interactive, my role transitioned to 2K, where I continued driving cross-functional initiatives with a focus on gameplay telemetry integration in user research, data analysis, and actionable insights.
             
       - role: User Research Analyst
         time: 2022 - 2024
