@@ -65,8 +65,15 @@ experiences:
     title: Experiences
     info:
 
+     - role: Data Analyst
+        time: March 2026 - Sept 2026
+        company: 2K Games, Novato
+        details: |
+          Analyzed live Borderlands 4 and DLC gameplay data to identify friction points and track engagement and retention KPIs, delivering insights to developers, community, production, and leadership that shaped feature and system improvements.
+          
+      
       - role: Senior Gameplay Telemetry Researcher
-        time: 2025 - Present
+        time: Jan 2025 - Nov 2025
         company: 2K Games, Novato
         details: |
           Serving as a pivotal bridge between the Data Insights and User Research teams at 2K. My role enables the integration of telemetry in game user research with a focus on the Gearbox portfolio. 
